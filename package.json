@@ -7,10 +7,12 @@
   "homepage": "https://crysadrak.github.io/fasterblaster",
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "konva": "2.1.7",
     "gh-pages": "^1.1.0",
     "react": "^16.4.1",
     "firebase": "5.2.0",
     "react-dom": "^16.4.1",
+    "react-konva": "1.7.9",
     "react-scripts": "1.1.4"
   },
   "scripts": {
